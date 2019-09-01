@@ -1,0 +1,9 @@
+C:\Users\Oquzhan21\Desktop\SsAlma\SsAlma\bin\Debug\SsAlma.exe.config
+C:\Users\Oquzhan21\Desktop\SsAlma\SsAlma\bin\Debug\SsAlma.exe
+C:\Users\Oquzhan21\Desktop\SsAlma\SsAlma\bin\Debug\SsAlma.pdb
+C:\Users\Oquzhan21\Desktop\SsAlma\SsAlma\obj\Debug\SsAlma.csprojResolveAssemblyReference.cache
+C:\Users\Oquzhan21\Desktop\SsAlma\SsAlma\obj\Debug\SsAlma.Form1.resources
+C:\Users\Oquzhan21\Desktop\SsAlma\SsAlma\obj\Debug\SsAlma.Properties.Resources.resources
+C:\Users\Oquzhan21\Desktop\SsAlma\SsAlma\obj\Debug\SsAlma.csproj.GenerateResource.Cache
+C:\Users\Oquzhan21\Desktop\SsAlma\SsAlma\obj\Debug\SsAlma.exe
+C:\Users\Oquzhan21\Desktop\SsAlma\SsAlma\obj\Debug\SsAlma.pdb
